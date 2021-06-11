@@ -1,0 +1,50 @@
+h1{
+    color:crimson
+}
+
+*{ 
+    background-color:blanchedalmond;
+}
+
+.header{
+    color: chartreuse;
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+
+.menu{
+    background-color:chocolate;
+    border: 10px solid chocolate;
+    justify-content: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-image: url(image0-8.gif);
+    margin-top: 10%;
+    
+}
+
+.item{
+    background-color: coral;
+    border: 10px solid aqua;
+}
+
+.item2{
+    background-color: coral;
+    border: 10px solid aqua;
+}
+
+.item3{
+    background-color: coral;
+    border: 10px solid aqua;
+}
